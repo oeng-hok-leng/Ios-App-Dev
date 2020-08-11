@@ -1,0 +1,16 @@
+PODS:
+  - ShimmerSwift (2.1.1)
+
+DEPENDENCIES:
+  - ShimmerSwift
+
+SPEC REPOS:
+  trunk:
+    - ShimmerSwift
+
+SPEC CHECKSUMS:
+  ShimmerSwift: f7ed2daf9c246de8299dfd9e12c6ab465cba9842
+
+PODFILE CHECKSUM: 25ec78d6f82f2e839be02ecb43d00a0a20818d0a
+
+COCOAPODS: 1.9.1
